@@ -10,11 +10,11 @@
 - [Count Items Matching a rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 - [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
 - [Check if two strings are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
-- [To Lower Case](https://leetcode.com/problems/to-lower-case/)
-- [Determine if string halves are alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)
+- [To Lower Case](https://leetcode.com/problems/to-lower-case/) (done)
+- [Determine if string halves are alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) (done)
 - [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)
-- [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
-- [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
+- [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) (done)
+- [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) (done)
 - [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 - [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 - [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
@@ -66,3 +66,4 @@
 # Additionally
 
 - [Click "Show problem tags" and do questions that have tags for things we have learnt so far only.](https://leetcode.com/tag/string/)
+
